@@ -1,0 +1,10 @@
+[2024-10-26 17:06:30.428] [info] Using configuration file /home/dylan/.config/waybar/config
+[2024-10-26 17:06:30.431] [info] Using CSS file /home/dylan/.config/waybar/style.css
+[2024-10-26 17:06:30.467] [info] Hyprland IPC starting
+[2024-10-26 17:06:30.468] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-26 17:06:30.469] [info] Loading persistent workspaces from Hyprland workspace rules
+[2024-10-26 17:06:30.472] [warning] No batteries.
+[2024-10-26 17:06:30.555] [warning] No batteries.
+[2024-10-26 17:06:30.806] [info] Bar configured (width: 1920, height: 41) for output: HDMI-A-3
+[2024-10-26 17:06:30.806] [info] Bar configured (width: 1920, height: 41) for output: HDMI-A-1
+Gdk-Message: 21:03:01.710: Error reading events from display: Broken pipe
