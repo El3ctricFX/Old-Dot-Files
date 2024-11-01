@@ -20,11 +20,7 @@ alias lla='lsd -Alh'
 alias vi='nvim'
 alias svi='sudo nvim'
 
-#╔════════════════════════════════════════════════════════╕
-#║		BashRC Information		          │
-#╚════════════════════════════════════════════════════════╛
 
-alias bashrc='source ~/.bashrc'
 
 #╔════════════════════════════════════════════════════════╕
 #║		Shortcuts  			          │
@@ -52,6 +48,7 @@ alias journal='tjournal'
 alias color='hyprpicker'
 alias bar='cd ~/.config/waybar'
 alias reway='killall waybar && nohup waybar &'
+alias website='cd ~/Documents/GitHub/website/'
 
 #╔════════════════════════════════════════════════════════╕
 #║		Directory  			          │
