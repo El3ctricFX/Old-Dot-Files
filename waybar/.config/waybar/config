@@ -20,17 +20,9 @@
         "disk",
         "tray",
         "pulseaudio",
-        "network",
-        "battery",
-        "hyprland/language",
         "clock"
     ],
-    "hyprland/language": {
-        "format": "{}",
-        "format-en": "ENG",
-        "format-ru": "РУС"
-    },
-    "hyprland/workspaces": {
+     "hyprland/workspaces": {
         "icon-size": 32,
         "spacing": 16,
         "on-scroll-up": "hyprctl dispatch workspace r+1",
@@ -107,43 +99,7 @@
             "on-scroll-down": "shift_down"
         }
     },
-    "network": {
-        "format-wifi": " {icon}",
-        "format-ethernet": "  ",
-        "format-disconnected": "󰌙",
-        "format-icons": [
-            "󰤯 ",
-            "󰤟 ",
-            "󰤢 ",
-            "󰤢 ",
-            "󰤨 "
-        ]
-    },
-    "battery": {
-        "states": {
-            "good": 95,
-            "warning": 30,
-            "critical": 20
-        },
-        "format": "{icon} {capacity}%",
-        "format-charging": " {capacity}%",
-        "format-plugged": " {capacity}%",
-        "format-alt": "{time} {icon}",
-        "format-icons": [
-            "󰂎",
-            "󰁺",
-            "󰁻",
-            "󰁼",
-            "󰁽",
-            "󰁾",
-            "󰁿",
-            "󰂀",
-            "󰂁",
-            "󰂂",
-            "󰁹"
-        ]
-    },
-    "pulseaudio": {
+     "pulseaudio": {
         "max-volume": 150,
         "scroll-step": 10,
         "format": "{icon}",
