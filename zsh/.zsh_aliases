@@ -51,6 +51,8 @@ alias reway='killall waybar && nohup waybar &'
 alias website='cd ~/Documents/GitHub/website/'
 alias rmd='rm -rf'
 
+alias cd='z'
+
 #╔════════════════════════════════════════════════════════╕
 #║		Directory  			          │
 #╚════════════════════════════════════════════════════════╛

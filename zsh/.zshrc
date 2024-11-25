@@ -41,6 +41,7 @@ zinit light zsh-users/zsh-autosuggestions
 zinit light Aloxaf/fzf-tab
 
 eval "$(starship init zsh)"
+eval "$(zoxide init zsh)"
 
 # Auto completions
 autoload -Uz compinit && compinit
