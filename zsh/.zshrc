@@ -61,3 +61,5 @@ zstyle ':fzf-tab:complete:cd:*' fzf-preview 'ls --color $realpath'
 if [ -e $HOME/.zsh_aliases ]; then
     source $HOME/.zsh_aliases
 fi
+
+fastfetch
