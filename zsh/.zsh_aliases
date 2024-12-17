@@ -52,6 +52,7 @@ alias website='cd ~/Documents/GitHub/website/'
 alias rmd='rm -rf'
 alias ipconfig='ip a'
 alias cd='z'
+alias m2pdf='markdown2pdf -p'
 
 #╔════════════════════════════════════════════════════════╕
 #║		Directory  			          │
